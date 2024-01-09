@@ -10,15 +10,15 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="">
-    <img src="https://komarev.com/ghpvc/?username=jmanikiza&label=Profile%20views" alt="jmanikiza" />
+<p>
+  <a href="https://www.buymeacoffee.com/JManikiza">
+    <img align="Center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JManikiza" />
   </a>
 </p>
 
-<p>
-  <a href="https://www.buymeacoffee.com/JManikiza">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JManikiza" />
+<p align="center">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=jmanikiza&label=Profile%20views" alt="jmanikiza" />
   </a>
 </p>
 
