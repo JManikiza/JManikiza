@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<p>
+<p align="Center" >
   <a href="https://www.buymeacoffee.com/JManikiza">
-    <img align="Center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JManikiza" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="20" width="100" alt="JManikiza" />
   </a>
 </p>
 
