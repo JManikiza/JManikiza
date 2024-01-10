@@ -1,5 +1,6 @@
 <p align="center">
   <a href="">
+    
     <img src="https://github-profile-trophy.vercel.app/?username=jmanikiza&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&theme=alduin" alt="jmanikiza" />
   </a>
 </p>
